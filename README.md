@@ -1,4 +1,4 @@
-Live link = https://my-potfolio-ashy.vercel.app/
+Live link = https://kanishkas-portfolio.vercel.app/
 
 # React + Vite
 
