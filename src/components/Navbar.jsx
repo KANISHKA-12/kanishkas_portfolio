@@ -78,8 +78,7 @@ const Navbar = () => {
                         className='hidden md:flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-cyan-500 to-blue-500 text-white font-poppins font-medium rounded-full hover:shadow-lg hover:shadow-cyan-500/25 transition-all duration-300' 
                         target='_blank' 
                         rel='noopener noreferrer' 
-                        href='https://drive.google.com/file/d/1aKgS-Q7QAuDAaOAaqOwDofIlQIeYYwFK/view'
-                        variants={linkVariants}
+                        href='https://drive.google.com/file/d/1TxYOQpvEk1i1NtRoW2dGO41kX882Bdq8/view?usp=drivesdk'
                         whileHover="hover"
                         whileTap="tap"
                     >
